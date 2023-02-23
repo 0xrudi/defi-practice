@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Compound from'@compound-finance/compound-js';
-import calculateApy from '../apy.js';
+import calculateApy from '../compound-apy.js';
 
 export default function Home({ apys }) {
   

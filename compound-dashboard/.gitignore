@@ -34,4 +34,6 @@ yarn-error.log*
 .vercel
 
 # need to segment out api key
-apy.js
+rari-apy.js
+aave-apy.js
+compound-apy.js
